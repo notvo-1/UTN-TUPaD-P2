@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Orellana, Matias  
+- **Nombre:** Orellana, Matias.  
 - **Comisión:** M2025-2
 
 ## 📂 Descripción del Repositorio  
