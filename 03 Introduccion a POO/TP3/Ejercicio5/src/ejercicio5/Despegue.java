@@ -31,7 +31,7 @@ public class Despegue {
         nave1.avanzar(500);
         nave1.mostrarEstado();
 
-        
+
     }
     
 }
