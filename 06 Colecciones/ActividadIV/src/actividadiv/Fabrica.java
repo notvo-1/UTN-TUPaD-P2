@@ -5,13 +5,13 @@
 package actividadiv;
 
 import java.util.ArrayList;
+import java.util.Scanner;
 
 /**
  *
  * @author notvo
  */
 public class Fabrica {
-
     private String nombre;
     private ArrayList<Sucursal> sucursales;
 
