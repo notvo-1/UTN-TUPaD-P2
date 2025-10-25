@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Parte2.Ejercicio1;
+package Parte2;
 
 import com.sun.source.tree.TryTree;
 import java.io.BufferedReader;
